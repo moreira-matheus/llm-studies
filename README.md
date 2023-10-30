@@ -1,1 +1,3 @@
-# llm-studies
+# My studies on LLMs
+
+## BERT
